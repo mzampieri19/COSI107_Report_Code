@@ -13,3 +13,7 @@ The demonstration involves creating a small Convolutional Neural Network (CNN) t
 Additionally, the project explores the implementation of defense mechanisms to mitigate these attacks, evaluating their effectiveness in improving the model's robustness.
 
 For further details, the accompanying Jupyter notebooks include thorough comments and explanations throughout.
+
+---
+
+The models and data directories are hidden from git hub since they are to olarge, but can be provided if needed. 
